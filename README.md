@@ -39,6 +39,6 @@ $ cd V-DdoS
 $ python2 V-DdoS.py
 
 
+😈 fack lover 😈
 
 
-Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`Now Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
